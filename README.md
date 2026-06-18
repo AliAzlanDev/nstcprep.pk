@@ -87,4 +87,4 @@ Please ensure your contributions follow our content guidelines and code style. F
 
 ## License
 
-[MIT License](LICENSE)
+[License](LICENSE)
